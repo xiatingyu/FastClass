@@ -1,0 +1,10 @@
+sadness
+surprise
+disgust
+love
+guilt
+anger
+shame
+fear
+joy
+no emotion

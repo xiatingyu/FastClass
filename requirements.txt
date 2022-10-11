@@ -1,0 +1,6 @@
+apricot-select==0.6.1
+sentence-transformers ==1.2.0
+torch==1.8.2
+faiss-gpu==1.7.2
+huggingface-hub==0.0.8
+transformers==4.6.0
