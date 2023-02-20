@@ -18,13 +18,9 @@ If you use this code, please cite this paper:
 ```
 @inproceedings{xia-etal-2022-fastclass,
     title = "{F}ast{C}lass: A Time-Efficient Approach to Weakly-Supervised Text Classification",
-    author = "Xia, Tingyu  and
-      Wang, Yue  and
-      Tian, Yuan  and
-      Chang, Yi",
+    author = "Xia, Tingyu  and Wang, Yue  and Tian, Yuan  and Chang, Yi",
     booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
     year = "2022",
-    address = "Abu Dhabi, United Arab Emirates",
     pages = "4746--4758",
 }
 
